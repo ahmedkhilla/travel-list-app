@@ -1,6 +1,6 @@
-# Classy Weather App
+# Todo List App
 
-### Check the app [here](https://classy-weather-app-brown.vercel.app/) 
+### Check the app [here](https://todo-react-app-taupe.vercel.app/) 
 
 
 
