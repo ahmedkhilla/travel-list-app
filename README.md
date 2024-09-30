@@ -1,4 +1,4 @@
-# Todo List App
+# Travel List App
 
 ### Check the app [here](https://todo-react-app-taupe.vercel.app/) 
 
